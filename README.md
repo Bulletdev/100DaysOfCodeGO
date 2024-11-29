@@ -130,15 +130,15 @@ Meu roteiro está focado em desenvolvimento de back-end com Go, pois acredito qu
 
 <h3>API REST</h3> 
 
-[![Outro Repositório](https://img.shields.io/badge/%20Repositório-Ver%20Aqui-pink.svg)](https://github.com/Bulletdev/magalu-cloud-api)
+[![Outro Repositório](https://img.shields.io/badge/%20Repositório-Ver%20Aqui-blue.svg)](https://github.com/Bulletdev/magalu-cloud-api)
 
 
 
 <h3>DEV QUEST</h3> 
 
-[![Outro Repositório](https://img.shields.io/badge/%20Repositório-Ver%20Aqui-purple.svg)](https://github.com/Bulletdev/DevQuest)
+[![Outro Repositório](https://img.shields.io/badge/%20Repositório-Ver%20Aqui-red.svg)](https://github.com/Bulletdev/DevQuest)
 
 ##
 <p>Quer partipicar do projeto e não sabe por onde começar? Que tal dar uma olhadinha nas regras do desafio?</p>
 
-[![Outro Repositório](https://img.shields.io/badge/%20Repositório-Ver%20Aqui-pink.svg)](https://github.com/sspacecoding/100DiasSpaceCoders)
+[![Outro Repositório](https://img.shields.io/badge/%20Repositório-Ver%20Aqui-green.svg)](https://github.com/sspacecoding/100DiasSpaceCoders)
