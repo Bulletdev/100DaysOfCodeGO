@@ -8,7 +8,7 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou animado para co
 
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
-
+<p align="center"><code><a href="https://go.dev/play/" title="Go Lab"><img width="55" src="https://go.dev/images/go-logo-white.svg"target="_blank">> Teste o código aqui</a></code></p>
 
 ## 💻Roteiro de Estudos
 
