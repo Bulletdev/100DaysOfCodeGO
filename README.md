@@ -6,6 +6,36 @@ Bem-vindo ao meu desafio de 100 dias de programação em Go! Estou comprometido 
 
 Junte-se a mim nesta jornada de crescimento e aprendizado. Estou animado para compartilhar minhas experiências, desafios e conquistas ao longo do caminho.
 
+Estrutura do desafio:
+
+
+
+
+Clique para exibir
+
+<details align="left">r
+  <summary></summary> 
+  
+•  Dias 1-10: Fundamentos do Go (sintaxe, tipos de dados, estruturas de controle, funções, arrays, slices, maps, structs, manipulação de arquivos, I/O, manipulação de erros).
+
+•  Dias 11-20: Programação Concorrente (goroutines, canais, WaitGroups, Mutexes, contextos, padrões de concorrência, select e timeouts, pool de goroutines, concorrência com pipelines).
+
+•  Dias 21-30: Desenvolvimento Web (net/http, configuração de servidor HTTP, manipulação de rotas, requisições e respostas JSON, middleware, autenticação básica, sessões e cookies, upload de arquivos, WebSockets).
+
+•  Dias 31-40: Banco de Dados (conexão com PostgreSQL, operações CRUD, uso de GORM, migrações de banco de dados, testes de integração, indexação e otimização de consultas, transações, relacionamentos entre tabelas, cache com Redis).
+
+•  Dias 41-50: Ferramentas e Boas Práticas (logging, configuração e variáveis de ambiente, gerenciamento de dependências, testes unitários, cobertura de código, documentação com GoDoc, benchmarking, profiling, ferramentas de linting).
+
+•  Dias 51-60: APIs Avançadas (GraphQL, gRPC, autenticação JWT, rate limiting, cache de API, monitoramento de APIs, documentação de APIs com Swagger, testes de carga, segurança em APIs).
+
+•  Dias 61-70: Ferramentas de Desenvolvimento (Docker, Kubernetes, CI/CD com GitHub Actions, monitoramento com Prometheus, logging centralizado com ELK Stack, integração com serviços externos).
+
+•  Dias 71-80: Segurança (práticas de segurança em Go, validação de entrada, proteção contra ataques comuns, criptografia, segurança em APIs, segurança em banco de dados, segurança em autenticação, segurança em comunicação, auditoria e logging de segurança).
+
+•  Dias 81-90: Performance e Escalabilidade (profiling e benchmarking, otimização de código, escalabilidade horizontal e vertical, load balancing, cache de aplicação).
+
+•  Dias 91-100: Projeto Final (planejamento, design, implementação, testes e documentação do projeto final).
+</details>
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 <p align="center"><code><a href="https://go.dev/play/" title="Go Lab"><img width="55" src="https://go.dev/images/go-logo-white.svg"target="_blank">> Teste o código aqui</a></code></p>
